@@ -10,6 +10,11 @@ includes:
   - overview
   - timelapse
   - app
+  - firmware
+  - cameras
+  - motion
+  - postprocessing
+  - troubleshooting
 
 search: true
 
